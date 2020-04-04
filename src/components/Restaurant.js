@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 
+import './Restaurant.css';
+
 export default class Restaurant extends Component {
     constructor(props) {
         super(props);

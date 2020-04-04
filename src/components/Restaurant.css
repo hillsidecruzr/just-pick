@@ -1,0 +1,9 @@
+.Restaurant {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.Restaurant > * {
+    align-self: center;
+}
